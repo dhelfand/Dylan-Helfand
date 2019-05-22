@@ -1,7 +1,3 @@
-theme: jekyll-theme-slate
-
-title: Welcome to Dylan's homepage
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dhelfand/www.dylanhelfand.com-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
