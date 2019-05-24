@@ -1,11 +1,11 @@
 # **Dylan M. Helfand, Esq.**
 
 ## Bar Admissions
-### State 
+### States
 - New York
 - Florida 
  
-### United States District Court
+### United States District Courts
 - Southern District of New York
 - Eastern District of New York 
 - Southern District of Florida 
