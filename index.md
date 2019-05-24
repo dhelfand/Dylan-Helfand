@@ -1,11 +1,11 @@
-# **Dylan M. Helfand, Esq**
+# **Dylan M. Helfand, Esq.**
 
 ## Bar Admissions
 ### State 
 - New York
 - Florida 
  
- ### Federal 
+### Federal 
 - Southern District of New York
 - Eastern District of New York 
 - Southern District of Florida 
@@ -19,3 +19,9 @@ Dylan M. Helfand was born and raised in Miami, Florida. He attended the Universi
 ## Law School Honors 
 
 ## Undergraduate Honors
+
+
+
+
+github:
+  is_project_page: false
