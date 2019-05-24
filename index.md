@@ -2,15 +2,13 @@
 
 ## Bar Admissions
 ### State 
- New York
+- New York
+- Florida 
  
- Florida 
  ### Federal 
- Southern District of New York
- 
- Eastern District of New York
- 
- Southern District of Florida 
+- Southern District of New York
+- Eastern District of New York 
+- Southern District of Florida 
   
 ## About Dylan
 
