@@ -22,6 +22,3 @@ Dylan M. Helfand was born and raised in Miami, Florida. He attended the Universi
 
 
 
-
-github:
-  is_project_page: false
