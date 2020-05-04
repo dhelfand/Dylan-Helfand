@@ -2,13 +2,13 @@
 
 ## Bar Admissions
 ### States
-- New York
 - Florida 
+- New York
  
 ### United States District Courts
-- Southern District of New York
-- Eastern District of New York 
 - Southern District of Florida 
+- Eastern District of New York 
+- Southern District of New York  
   
 ## About Dylan
 
