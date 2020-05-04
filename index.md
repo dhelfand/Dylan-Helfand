@@ -16,9 +16,14 @@ Dylan M. Helfand was born and raised in Miami, Florida. He attended the Universi
 
 ## Work Experiences
 
-## Law School Honors 
+At **Bernstone and Grieco, LLP**, Dylan primarily focused on litigation where he represented a multitude of clients. His practice primarily consisted of personal injury litigation. He argued motions before the courts, wrote appellate briefs, and attained numerous settlments for his clients. 
 
-## Undergraduate Honors
+- Prior to Bernstone and Greico, LLP, Dylan worked at **Gibson Dunn and Crutcher LLP** as a contract law clerk, prior to admission to the New York Bar. He assissted in the defense of a CEO accused of securities and accounting fraud. Dylan worked first hand with the partners trying the case and was in court daily to aid the in examination and cross examination of the witnessese. 
+
+## Law School Honors
+
+Dylan was on **Fordham Law Moot Court** where he served as the associate editor for the Mulligan Competition. Dylan was also on the **Intellectual Property, Media, and Entertainment Law Journal** Board where he served as the symposium editor. Dylan was awarded the **Archibald R. Murray Public Service Award** for his pro bono work and dedication to his clients. Prior to his enrollment at Fordham, Dylan was awarded The Hendren Family Opportunity Merit Scholarship.
+
 
 
 
