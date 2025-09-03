@@ -6,26 +6,24 @@
 - New York
  
 ### United States District Courts
-- Southern District of Florida 
+- Southern District of Florida
+- Middle District of Florida 
 - Eastern District of New York 
 - Southern District of New York  
   
 ## About Dylan
 
-Dylan M. Helfand is a litigation attorney from Miami, Florida. He attended the University of Florida, where he received his bachelor's degree in business administration in 2014. He attended Fordham University School of Law, where he received his Juris Doctor degree in 2017. Dylan has significant litigation experience, practicing various litigation specialties in both Florida and New York. Dylan primarily focuses his litigation skills on real estate and commercial litigation disputes.
+Dylan M. Helfand is an attorney based in Miami, Florida. He earned his B.S. in Business Administration from the University of Florida and his J.D. from Fordham University School of Law. Dylan has significant experience counseling clients on business and legal risks, with a practice spanning both Florida and New York. He focuses on real estate and commercial disputes, combining litigation experience with practical business judgment to help clients align legal strategy with organizational goals.
 
-## Work Experiences
+## Work Experience
 
-Dylan is a commercial litigator with a focus on real estate issues. Dylan currently represents clients in a myriad of issues stemming from the use of real property. Dylan has experience representing landlords, tenants, condominium associations, and developers. 
+Dylan is a commercial attorney with a focus on real estate and business disputes. He represents businesses, condominium associations, developers, and municipalities in matters involving the use and development of real property, including land use, zoning, and development approvals. His experience also extends to contract disputes, regulatory issues, and appellate proceedings, where he combines litigation skills with a business-oriented approach to risk management.
 
-Dylan previously practiced in New York as a litigation associate, where he represented a multitude of clients. He both authored and argued motions before the courts, wrote successful appellate briefs, and attained numerous settlements for his clients. 
-
-Dylan also worked at **Gibson Dunn and Crutcher LLP** as a contract law clerk before admission to the New York Bar. He assissted in the defense of a CEO accused of securities and accounting fraud. Dylan was in court daily, assisting the partners trying the case with their witness examinations. 
+Before returning to Miami, Dylan practiced as a litigation associate in New York, representing a broad range of clients in trial and appellate courts. He authored and argued motions, prepared successful appellate briefs, and negotiated favorable settlements. 
 
 ## Law School Honors
 
-Dylan was on **Fordham Law Moot Court** where he served as the associate editor for the Mulligan Competition. Dylan was also on the **Intellectual Property, Media, and Entertainment Law Journal** Board, where he served as the symposium editor. Dylan was awarded the **Archibald R. Murray Public Service Award** for his pro bono work and dedication to his clients. Prior to his enrollment at Fordham, Dylan was awarded The Hendren Family Opportunity Merit Scholarship.
-
+At Fordham, Dylan served as Symposium Editor for the Intellectual Property, Media & Entertainment Law Journal and as an Associate Editor for the Moot Court Board’s Mulligan Competition. He interned with an intellectual property firm, where he assisted in protecting clients’ rights through litigation and proactive enforcement measures, including customs seizures of counterfeit goods, asset freezes, and cease-and-desist letters. Dylan received the Hendren Family Opportunity Merit Scholarship to attend Fordham and the Archibald R. Murray Public Service Award for his pro bono work and dedication to clients in the law school clinic. 
 
 
 
